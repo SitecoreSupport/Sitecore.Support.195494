@@ -13,7 +13,7 @@ using System;
 using System.Web;
 using System.Web.Http;
 
-namespace Sitecore.Support
+namespace Sitecore.Support.EmailCampaign.Server.Controllers.DefaultSettings
 {
   [ServicesController("EXM.SaveDefaultSettingsEx")]
   public class SaveDefaultSettingsExController : Sitecore.EmailCampaign.Server.Controllers.DefaultSettings.SaveDefaultSettingsController
